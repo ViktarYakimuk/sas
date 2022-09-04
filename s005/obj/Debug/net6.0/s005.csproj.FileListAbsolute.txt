@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\bin\Debug\net6.0\s005.exe
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\bin\Debug\net6.0\s005.deps.json
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\bin\Debug\net6.0\s005.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\bin\Debug\net6.0\s005.dll
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\bin\Debug\net6.0\s005.pdb
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.dll
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\refint\s005.dll
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.pdb
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\s005.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\sas\sos\s005\obj\Debug\net6.0\ref\s005.dll
